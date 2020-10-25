@@ -2,7 +2,7 @@
 This is a Chrome extension that makes your browser display "Sleepy eyes" when watching Twitter for a long time.
 
 <img src="https://user-images.githubusercontent.com/42378981/97100682-6c8fa680-16d9-11eb-80bd-70629d25657a.jpeg">
-<img src="https://user-images.githubusercontent.com/42378981/97100683-6ef20080-16d9-11eb-9c0f-247ff7dbb0ad.jpeg" width="350px"> <img src="https://user-images.githubusercontent.com/42378981/97100686-72858780-16d9-11eb-8719-eafedb3c0b28.jpeg" width="350px">
+<img src="https://user-images.githubusercontent.com/42378981/97100683-6ef20080-16d9-11eb-9c0f-247ff7dbb0ad.jpeg"> <img src="https://user-images.githubusercontent.com/42378981/97100686-72858780-16d9-11eb-8719-eafedb3c0b28.jpeg" width="350px">
 
 # How to use
 1. Download all the files.
